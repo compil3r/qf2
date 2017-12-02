@@ -1,0 +1,13 @@
+.img-logo {
+    width: auto;
+    height: 25%;
+}
+
+.texto-direita {
+    float: right;
+}
+
+.texto-grande {
+    font-size: 4rem;
+    font-weight: bold;
+}
